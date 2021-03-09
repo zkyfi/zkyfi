@@ -1,6 +1,6 @@
 # ZYFI
 
-ZYearn Finance is DeFi made simple with zkRollup enabled version of yearn.finance using zkSync. Creating the possibility of Paypal-scale DeFi on Ethereum. ZYearn Finance is open to everyone for staking, Liquidity mining, Yield Farming and many more!
+ZYearn Finance is DeFi made simple with zkRollup enabled version of yearn.finance using zkSync. Creating the possibility of Paypal-scale DeFi on Ethereum. ZYearn Finance is open to everyone for staking, Yield Farming and much more!
 
 ZYearn Finance is a suite of products in Decentralized Finance (DeFi) that at its core provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained and developed by various independent contributors within the cryptocurrency space. Management of the protocol is governed by ZYFI holders. Listed below are core products active in production, a brief description on the protocol's governance process, and links to active communication channels.
 
